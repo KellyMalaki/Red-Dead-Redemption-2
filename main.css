@@ -1,0 +1,86 @@
+.jumbotron{
+    background: none;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.section-light{
+    background-color: #eceeef;
+    padding: 2em;
+}
+
+.carousel-corners{
+    border-radius: 25px;
+}
+
+.section-dark{
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.rounded-border-image{
+    border-radius: 10px;
+}
+
+.rockstar_logo{
+    position: relative;
+    bottom: 0PX;
+}
+
+.buy-now-wrapper{
+    margin-top: 20px;
+}
+
+button.buy-now-button{
+    display: block;
+    margin: auto;
+    color: white;
+    background-color: red;
+}
+
+.buy-now-title{
+    margin: auto;
+}
+
+.buy-now-options{
+    display: block;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.buy-now-logo{
+    display: block;
+    margin: auto;
+}
+
+.buy-now-version-text{
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-three-col-data, .img-three-col-data{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.btn-three-col-data{
+    width: 282px;
+}
+
+.footer-img{
+    padding: 15px;
+}
+
+.fa-facebook-square .fa-twitter .fa-instagram .fa-youtube .fa-twitch {
+    display: block;
+    margin: auto;
+    color: white;
+    margin: 10px;
+}
